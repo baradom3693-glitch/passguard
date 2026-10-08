@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "buildCommand": "echo 'Deploying PassGuard Streamlit App'",
+  "outputDirectory": ".",
+  "cleanUrls": true
+}
